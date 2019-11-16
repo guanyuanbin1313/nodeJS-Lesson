@@ -1,4 +1,4 @@
-const co = require("child_process");
+const cp = require("child_process");
 
 /** 
  * err启动子进程过程异常得到的错误对象
